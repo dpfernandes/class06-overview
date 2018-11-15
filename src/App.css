@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body, html {
+  overflow-x: hidden;
+}
+
+.app-header {
+  background-color: #282c34;
+  height: 10%;
+  display:block;
+  padding: 30px;
+}
+
+.app-title {
+  color: rgb(37, 37, 38);
+  display:inline-block;
+  width: 100%;
+  margin: 40px 0 0 0;
+  float:left;
+  position:relative;
+  padding: 20px;
+}
+
+
+  @media(min-width:768px) {
+    width: 20%;
+    margin: 280px 0 0 0;
+  }
+  
+  h1 {
+    font-size: 52px;
+    margin: 0;
+  }
+  
+  p {
+    font-weight: 200;
+    opacity: .5;
+  }
+  
+.app-title-content {
+  position:relative;
+  top:50%;
+  left: 50%;
+  width:100%;
+  text-align:center;
+  transform:translate(-50%, -50%);
+ }
+
+  @media(min-width:768px) {
+    width:auto;
+    position:absolute;
+    text-align:left;
+  }
+
+
+.app-card-list {
+  display:inline-block;
+  width:100%;
+  float:right;
+  margin:0;
+  min-height: 75vh;
+  white-space:normal;
+  overflow-x: scroll;
+  margin-top:-70px;
+  }
+  
+  @media(min-width:768px) {
+      width:80%;
+      white-space:nowrap;
+      margin-top: 0;
+  }
+  
+  .card {
+    margin: 80px 40px;
+    display: inline-block;
+    border: #282c34;
+    margin: 20px;
+  }  
+
+  .card-header {
+    padding: 30%;
+    height: auto; 
+    width: auto;  
+    color: rgb(37, 37, 38);
+    white-space: normal;
+    align-self: auto;
+  }
+
+  .card-header--title{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+  }
+  
+  .card-body {
+    color: rgb(37, 37, 38);
+    white-space: normal;
+  }
+  
+  .small-icon {
+    width: 30px;
+    height: 15px;
+    padding: 20px;
+    text-align: center;
+  }
+
