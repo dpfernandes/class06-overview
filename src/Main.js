@@ -1,8 +1,6 @@
 import React from 'react';
 import Title from "./Title";
 import Card from "./Card";
-import PostList from "./PostList";
-
 
 //Temporarily store data here
 const PostsData = [
@@ -125,32 +123,26 @@ const PostsData = [
 
 
 class Main extends React.Component { 
+
     constructor() {
       super();
-      
       this.state = {
-        posts: {}
+        posts: [...PostsData]
       }
     }
-    componentWillMount() {
-      this.setState({
-        posts: PostsData
-      });
-    }
-   
   
     render() {
-      return <div>
-        <header className="app-header"></header>
-        <Title />
-        <div className="app-card-list" id="app-card-list">
-          {
-            Object
-            .keys(this.state.posts)
-            .map(key => <Card key={key} index={key} details={this.state.posts[key]}/>)
-          }
-      </div>
-      </div>
+      return (
+          <div>
+            <header className="app-header"></header>
+            <Title />
+            <div className="app-card-list" id="app-card-list">
+              {
+                this.state.posts.map((post, index) => <Card key={index} index={index} details={post}/>)
+              }
+            </div>
+          </div>
+      )
     }
   }
   export default Main;
