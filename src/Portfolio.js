@@ -6,10 +6,9 @@ class Portfolio extends React.Component {
   render() {
     return (
         <div > 
-        <a href={'PostData.portfolio'}>
-              <img src={portfolio}  className="small-icon" alt={this.props.name} />
+        <a href={this.props.portfolio}>
+          <img src={portfolio} className="small-icon" alt={'portfolio icon'} />
         </a>
-        {this.props.portfolio}
         </div>
     )
   }

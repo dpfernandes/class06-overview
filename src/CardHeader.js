@@ -2,14 +2,10 @@ import React, { Component } from "react";
 
 
 class CardHeader extends Component {
-    render() {
-      const { image, category } = this.props;
-      var style = {    
-                    backgroundImage: 'url(' + image + ')',
-      };
+    render() {  
       return (
-        <div style={style} className="card-header">
-          <a>{category}</a>
+        <div>
+          <img src={this.props.image} alt={''} />
         </div>
       )
     }

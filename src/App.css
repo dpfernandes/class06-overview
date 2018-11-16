@@ -52,46 +52,45 @@ body, html {
   min-height: 75vh;
   white-space:normal;
   overflow-x: scroll;
-  margin-top:-70px;
-  }
+}
   
-  .card {
-    display: inline-table;
-    grid-template-columns: auto auto auto;
-    grid-gap: 10px;
-    margin: 80px 40px;
+.card {
+  display: inline-table;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  margin: 80px 40px;
 
-    border: #282c34;
-    margin: 20px;
-  }  
+  border: #282c34;
+  margin: 20px;
+}  
 
-  .card-header {
-    padding: 100px;
-    width: 30px;
-    height: auto;
-    text-align: center;
-    color: rgb(37, 37, 38);
-    white-space: normal;
-    align-self: center;
-    transition: 0.3s;
-  }
+.card-header {
+  padding: 100px;
+  width: 30px;
+  height: auto;
+  text-align: center;
+  color: rgb(37, 37, 38);
+  white-space: normal;
+  align-self: center;
+  transition: 0.3s;
+}
   
-  .card-body {
-    color: rgb(37, 37, 38);
-    white-space: normal;
-  }
+.card-body {
+  color: rgb(37, 37, 38);
+  white-space: normal;
+}
 
-  .card-thumb-nail-img {
-    padding: 1em;
-    width: auto;
-    height: 60px;
-    text-align: center;
-  }
+.card-thumb-nail-img {
+  padding: 1em;
+  width: auto;
+  height: 60px;
+  text-align: center;
+}
   
-  .small-icon {
-    width: 30px;
-    height: 15px;
-    padding: 2px;
-    text-align: center;
-  }
+.small-icon {
+  width: 30px;
+  height: 15px;
+  padding: 2px;
+  text-align: center;
+}
 

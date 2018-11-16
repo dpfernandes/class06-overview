@@ -6,16 +6,19 @@ import CardHeader from "./CardHeader";
 
 class Card extends Component {
     render() {
+      const {details} = this.props
       return (
         <article className="card" >
-          <CardHeader  category={this.props.details.category} 
-                      image={this.props.details.image}/>
-          <CardBody name={this.props.details.name} 
-                    gitHubRepo={this.props.details.gitHubRepo}
-                    linkedin={this.props.details.linkedin}
-                    portfolio={this.props.details.portfolio}/>
-                    
-
+          <CardHeader  
+            category={details.category} 
+            image={details.image}/>
+          <CardBody 
+            name={details.name} 
+            gitHubRepo={details.gitHubRepo}
+            linkedin={details.linkedin}
+            portfolio={details.portfolio}
+          />
+      
         </article>
       )
     }

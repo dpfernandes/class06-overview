@@ -3,21 +3,12 @@ import github from "./images/github.svg";
 
 class GitHubRepo extends React.Component {
   render() {
-
-
     return (
-
-         <github> 
-           <a href='{PostsData.gitHubRepo}'>
-                 <img src={github}  className="small-icon" alt={this.props.name} />
-                 <check>&#9989;</check>
-                 <uncheck>&#x274C;</uncheck>
-           </a>
-           {this.props.gitHubRepo}
-         </github>
-
-                    
-
+        <github> 
+          <a href={this.props.gitHubRepo}>
+            <img src={github} className="small-icon" alt={'github icon'} />
+          </a>
+        </github>
     )
   }
 }
