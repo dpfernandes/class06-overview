@@ -7,8 +7,8 @@ import CardHeader from "./CardHeader";
 class Card extends Component {
     render() {
       return (
-        <article className="card">
-          <CardHeader category={this.props.details.category} 
+        <article className="card" >
+          <CardHeader  category={this.props.details.category} 
                       image={this.props.details.image}/>
           <CardBody name={this.props.details.name} 
                     gitHubRepo={this.props.details.gitHubRepo}
