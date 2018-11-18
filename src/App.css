@@ -93,3 +93,16 @@ body, html {
   text-align: center;
 }
 
+.profile_image{
+  width: "90px";
+  max-block-size: "20px";
+}
+
+.graph{
+  width:"380px";  
+  margin: 10px;
+
+}
+
+
+

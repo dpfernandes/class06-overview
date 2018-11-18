@@ -5,7 +5,8 @@ class CardHeader extends Component {
     render() {  
       return (
         <div>
-          <img src={this.props.image}  width="170px" alt={''} />
+          <img src={this.props.image}  className="profile_image"   width="90px" alt={'profile picture'} />
+          <img src={this.props.graph}   className="graph"  width="420px" alt={'contribution graph'} />
         </div>
       )
     }

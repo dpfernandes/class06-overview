@@ -11,7 +11,9 @@ class Card extends Component {
         <article className="card" >
           <CardHeader  
             category={details.category} 
-            image={details.image}/>
+            image={details.image}
+            graph={details.graph}/>
+
           <CardBody 
             name={details.name} 
             gitHubRepo={details.gitHubRepo}
