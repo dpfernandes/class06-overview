@@ -124,15 +124,6 @@ const PostsData = [
     "portfolio": "",
     "image": "https://avatars3.githubusercontent.com/u/32614855?s=90&v=4",
     "graph": "http://ghchart.rshah.org/ibrsal"
-  },
-  {
-    "category": "",
-    "name": "Anowar Uddin",
-    "gitHubRepo": "https://github.com/smauddin/",
-    "linkedin": "https://www.linkedin.com/in/s-m-anowar-uddin-60ab0473/",
-    "portfolio": "",
-    "image": "https://avatars0.githubusercontent.com/u/36801389?s=90&v=4",
-    "graph": "http://ghchart.rshah.org/smauddin"
   }
 ]
 
