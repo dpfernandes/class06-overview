@@ -10,7 +10,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/marcodca/",
     "linkedin": "https://www.linkedin.com/in/marco-de-cara-1b409013a/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars1.githubusercontent.com/u/38817334?s=170&v=4"
   },
   {
     "category": "",
@@ -18,7 +18,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/zoeyzou/",
     "linkedin": "https://www.linkedin.com/in/zoeyzou2018/",
     "portfolio": "https://zoeyzou.github.io/WebDevZ/",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars3.githubusercontent.com/u/13701719?s=170&v=4"
   },
   {
     "category": "",
@@ -26,7 +26,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/zuhairtaha",
     "linkedin": "https://www.linkedin.com/in/zuhairtaha/ ",
     "portfolio": "https://zuhair-taha-cv.herokuapp.com/",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars2.githubusercontent.com/u/955233?s=170&v=4"
   },
   {
     "category": "",
@@ -34,7 +34,7 @@ const PostsData = [
     "gitHubRepo": " https://github.com/asumon",
     "linkedin": "https://www.linkedin.com/in/dkaziz/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars3.githubusercontent.com/u/19579958?s=170&v=4"
   },
   {
     "category": "",
@@ -42,7 +42,7 @@ const PostsData = [
     "gitHubRepo": " https://github.com/mdmosiurrahman",
     "linkedin": "https://www.linkedin.com/in/mosiur-rahman-860857148/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars1.githubusercontent.com/u/32566240?s=170&v=4"
   },
   {
     "category": "",
@@ -50,7 +50,7 @@ const PostsData = [
     "gitHubRepo": " https://github.com/ZeeshanHaider2",
     "linkedin": "https://www.linkedin.com/in/zeeshan-haider-ba8310163/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars2.githubusercontent.com/u/39421284?s=170&v=4"
   },
   {
     "category": "",
@@ -58,7 +58,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/krishnarrana",
     "linkedin": "https://www.linkedin.com/in/krishnarana2121/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars0.githubusercontent.com/u/38383294?s=170&v=4"
   },
   {
     "category": "",
@@ -66,7 +66,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/T1ish/",
     "linkedin": "",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars3.githubusercontent.com/u/19361362?s=170&v=4"
   },
   {
     "category": "",
@@ -74,7 +74,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/Breedon-M",
     "linkedin": "https://www.linkedin.com/in/matthew-breedon/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars1.githubusercontent.com/u/37554093?s=170&v=4"
   },
   {
     "category": "",
@@ -82,7 +82,7 @@ const PostsData = [
     "gitHubRepo": " https://github.com/YousofMersal/",
     "linkedin": "",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars3.githubusercontent.com/u/29578565?s=170&v=4"
   },
   {
     "category": "",
@@ -90,7 +90,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/nirmalathapa",
     "linkedin": "https://www.linkedin.com/in/nirmalathapa/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars2.githubusercontent.com/u/1160546?s=170&v=4"
   },
   {
     "category": "",
@@ -98,7 +98,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/JVDZMN",
     "linkedin": "https://www.linkedin.com/in/javad-zamani-047350111/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars2.githubusercontent.com/u/32614797?s=170&v=4"
   },
   {
     "category": "",
@@ -106,7 +106,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/ibrsal/",
     "linkedin": "https://www.linkedin.com/in/ibrahim-salah-432264171/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars3.githubusercontent.com/u/32614855?s=170&v=4"
   },
   {
     "category": "",
@@ -114,7 +114,7 @@ const PostsData = [
     "gitHubRepo": "https://github.com/smauddin/",
     "linkedin": "https://www.linkedin.com/in/s-m-anowar-uddin-60ab0473/",
     "portfolio": "",
-    "image": "https://avatars3.githubusercontent.com/u/13701719?s=460&v=4"
+    "image": "https://avatars0.githubusercontent.com/u/36801389?s=170&v=4"
   }
 ]
 
